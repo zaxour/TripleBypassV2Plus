@@ -1,22 +1,28 @@
 # TripleBypassV2Plus
 A Variant of Tian Feng's Triple Bypass V2 with fixes and functionality added
 
-**Headphone Audio Restoration**
+## Headphone Audio Restoration
 
-These instructions work for VA3-VA6. VA7 is forthcoming.
-
+### VA3-VA6 (Probably earlier variants as well)
 On the bottom of the board under the CXA1034 (or similar) IC, remove:
--C45-C48
--R42-43 (Mono audio amplifier summing resistors)
--R34, 37
+- C45-C48
+- R42-43 (Mono audio amplifier summing resistors)
+- R34, 37
 
 The HR pad will then connect to C43-negative and HL will connect to C41 negative.
 
+### VA7
+- Remove R29-30 and C19-20 (They are next to IC9, lower left hand corner of the board)
+- IC9: Lift pins 8 and 14
+- The HR pad will connect to the upper side (facing the AV section) of R46
+- The HL pad will connect to the upper side of R45
 
-**CVBS Restoration**
+![VA7 Headphone Amp Connections](/images/Headphone%20Amp%20Connections.jpg)
+
+## CVBS Restoration
 
 These instructions assume the subcarrier pin has not been lifted!
-***Leave the 3BP S75 jumper open (no solder) for Model 2***
+*** Leave the 3BP S75 jumper open (no solder) for Model 2 ***
 
 -Model 1
 For models VA3-VA6 (likely earlier models too, unconfirmed), on the bottom side of the board, remove:

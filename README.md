@@ -34,7 +34,7 @@ On the bottom of the board under the CXA1034 (or similar) IC, remove:
 ### For original 3BPV2
 While the original 3BPV2 does not have dedicated pads for headphone audio, it is still feasible to implement. 
 - Identify the audio output nodes on the 3BP board, which correspond to the audio amp's pins 1 and 7. See the image below for an example using the V2+.
--- ![3BP Audio Output Nodes](/images/3BP_AudioOutputs.jpg)
+![3BP Audio Output Nodes](/images/3BP_AudioOutputs.jpg)
 - Using the applicable instructions above, connect the audio output nodes to the points specified on the main board, through the resistance values indicated below. This can be accomplished with leaded resistors or surface mount resistors.
 -- VA3-6: 100K
 -- VA7: 10K

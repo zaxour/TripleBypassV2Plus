@@ -1,4 +1,4 @@
-# TripleBypassV2Plus
+# Triple Bypass V2 Plus
 A Variant of Tian Feng's Triple Bypass V2 with fixes and functionality added
 
 ## VA3 Installs

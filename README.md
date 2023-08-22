@@ -1,5 +1,5 @@
 # Triple Bypass V2 Plus
-A Variant of Tian Feng's Triple Bypass V2 with fixes and functionality added
+My variant of Tian Feng's Triple Bypass V2, integrating pull up resistors and headphone restoration capability for Model 1 installs, as well as composite video restoration capability for all models.
 
 All Genesis/Mega Drive revision instructions are linked below:
 

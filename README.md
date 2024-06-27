@@ -22,3 +22,6 @@ All Genesis/Mega Drive revision instructions are linked below:
 [Model 3 - VA1](https://github.com/zaxour/TripleBypassV2Plus/blob/main/Documentation/3BP%20-%20M3VA1.pdf)
 
 Model 3 - VA2 - Coming Soon...
+
+## Sega CDX
+[CDX](https://github.com/zaxour/TripleBypassV2Plus/blob/main/Documentation/3BP%20-%20CDX.pdf)

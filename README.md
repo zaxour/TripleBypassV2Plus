@@ -7,6 +7,9 @@ All Genesis/Mega Drive revision instructions are linked below:
 [Model 1 - VA1-VA6](https://github.com/zaxour/TripleBypassV2Plus/blob/main/Documentation/3BP%20-%20M1VA0-VA6.pdf) 
 
 [Model 1 - VA7](https://github.com/zaxour/TripleBypassV2Plus/blob/main/Documentation/3BP%20-%20M1VA7.pdf)
+
+[Model 1 VA7 Headphone Amplifier Upgrade](https://github.com/zaxour/TripleBypassV2Plus/blob/main/Documentation/M1VA7%20-%20TS924%20HPO%20Mod.pdf)
+
 ## Model 2 Installation Guides
 [Model 2 - VA0-1.8](https://github.com/zaxour/TripleBypassV2Plus/blob/main/Documentation/3BP%20-%20M2VA0-1_8.pdf)
 
